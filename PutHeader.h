@@ -1,0 +1,11 @@
+void circle1();
+void triangle();
+void rectangle_two();
+void drawline();
+void drawline_One();
+void polygon();
+void circle2();
+void triangle_two();
+void rectangle_one();
+void polygon1();
+void theend();
